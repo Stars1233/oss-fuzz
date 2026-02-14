@@ -29,7 +29,7 @@
 		<dependency>
 			<groupId>com.code-intelligence</groupId>
 			<artifactId>jazzer-api</artifactId>
-			<version>0.12.0</version>
+			<version>0.22.1</version>
 		</dependency>
 		<dependency>
 			<groupId>com.squareup.okhttp3</groupId>
